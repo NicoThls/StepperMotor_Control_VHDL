@@ -23,3 +23,7 @@ Robin Vandebrouck: robin.vandebrouck@orange.fr
 
 This work was carried out within the framework of the Hardware/Software course of the Polytechnic Faculty of the University of Mons (Belgium) during the academic year 2020-2021.
 https://web.umons.ac.be/fr/
+
+
+# Disclamer
+The code of the StepperMotorPorts.vhdl has been taken from another github (https://github.com/23b125/VHDLstepperDriver/blob/master/StepperMotorDrive.vhd) and has been adapted to fit the objetives of this project.
