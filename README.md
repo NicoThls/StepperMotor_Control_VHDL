@@ -26,4 +26,4 @@ https://web.umons.ac.be/fr/
 
 
 # Disclamer
-The code of the StepperMotorPorts.vhdl has been taken from another github (https://github.com/23b125/VHDLstepperDriver/blob/master/StepperMotorDrive.vhd) and has been adapted to fit the objetives of this project.
+The code of the StepperMotorPorts.vhdl is inspired by another github (https://github.com/23b125/VHDLstepperDriver/blob/master/StepperMotorDrive.vhd) and has been adapted to fit the objetives of this project.
