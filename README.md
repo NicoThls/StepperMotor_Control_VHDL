@@ -14,7 +14,7 @@ The aim of this project is to control a stepper motor from a C code. The file in
 
 
 # Link to the video presentation
-https://youtu.be/1IV9QlHBRYQ
+https://youtu.be/2Dp3qKqm1wg
 
 
 # Authors
